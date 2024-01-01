@@ -5,7 +5,7 @@
 1. clone it
 
 ```bash
-git clone [https://github.com/akshay782/venue_booking_site.git](https://github.com/Codename-shaShank/WaGe.git)
+git clone [https://github.com/Codename-shaShank/WaGe.git]
 # go to project directory
 cd WaGe
 ```
