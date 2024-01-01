@@ -1,0 +1,35 @@
+/* Signup.css */
+
+.title {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .sign-up-form {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .input-field {
+    margin-bottom: 15px;
+  }
+  
+  .iBtn {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .iBtn:hover {
+    background-color: #218838;
+  }
+  
+  /* Add more styling as needed */
+  
